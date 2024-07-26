@@ -1,0 +1,17 @@
+roomNumber,stream,branchName,lectureName,time,subject,dayOfWeek,semesterNumber,yearOfStudy
+8,B.Tech,CSE,Dr.P.Panduranga,11.30Am-12.30Pm,EP,Monday,2,1
+8,B.Tech,CSE,Dr.P.Panduranga,10.30Am-11.30Am,EP,Tuesday,2,1
+8,B.Tech,CSE,Dr.P.Panduranga,1.30Pm-2.30Pm,EP,Wednesday,2,1
+8,B.Tech,CSE,Dr.A.Sailakumari,9.30Am-10.30Am,DEVC,Monday,2,1
+8,B.Tech,CSE,Dr.A.Sailakumari,2.30Pm-3.30Pm,DEVC,Wednesday,2,1
+8,B.Tech,CSE,Dr.A.Sailakumari,2.30Pm-3.30Pm,DEVC,Thursday,2,1
+8,B.Tech,CSE,Dr.A.Sailakumari,1.30Pm-2.30Pm,DEVC,Friday,2,1
+8,B.Tech,CSE,Dr.M.Madhu Babu,11.30Am-12.30Pm,BEC,Tuesday,2,1
+8,B.Tech,CSE,Dr.M.Madhu Babu,3.30Pm-4.30Pm,BEC,Wednesday,2,1
+8,B.Tech,CSE,Smt.P.Swathi,3.30Pm-4.30Pm,BEEE,Thursday,2,1
+8,B.Tech,CSE,Smt.P.Swathi,9.30Am-10.30Am,BEEE,Friday,2,1
+8,B.Tech,CSE,Mr.K.Somasena Reddy,10.30Am-11.30Pm,DS,Monday,2,1
+8,B.Tech,CSE,Mr.K.Somasena Reddy,9.30Am-10.30Am,DS,Tuesday,2,1
+8,B.Tech,CSE,Mr.K.Somasena Reddy,1.30Pm-2.30Pm,DS,Thursday,2,1
+8,B.Tech,CSE,T Dada Kalandar,1.30Pm-4.30Pm,EG,Tuesday,2,1
+8,B.Tech,CSE,T Dada Kalandar,2.30Pm-4.30Pm,EG,Friday,2,1
